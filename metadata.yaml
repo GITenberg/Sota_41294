@@ -16,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/Émile_Zola
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41294#Sota
 gutenberg_issued: '2012-11-05'
 gutenberg_type: Text
 identifiers:
